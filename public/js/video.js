@@ -18,7 +18,7 @@
 
   /** @type {MediaStreamConstraints} */
   const constraints = {
-    // audio: true,
+    audio: true,
     video: { facingMode: "user" }
   };
 
